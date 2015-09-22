@@ -13,5 +13,11 @@ var ViewModel = function() {
         else if (this.clickCount() < 30) return "Teen";
         else return "Adult";
     }, this);
+    
+    this.nickNames = ko.observableArray([
+        {name: "TT"},
+        {name: "Tad"},
+        {name: "Cuty"}
+    ]);
 }
 ko.applyBindings(new ViewModel());
