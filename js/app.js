@@ -2,31 +2,31 @@ var initialCats = [
     {
         name: "Tabby",
         clickCount: 0,
-        imgSrc: "img/1.jpg",
+        imgSrc: "img/22252709_010df3379e_z.jpg",
         nickNames: ["TT", "Tad", "Mr. T"]
     },
     {
         name: "Tiger",
         clickCount: 0,
-        imgSrc: "img/2.jpg",
+        imgSrc: "img/434164568_fea0ad4013_z.jpg",
         nickNames: ["Tiger"]
     },
     {
         name: "Scaridy",
         clickCount: 0,
-        imgSrc: "img/4.jpg",
+        imgSrc: "img/4154543904_6e2428c421_z.jpg",
         nickNames: ["Casper"]
     },
     {
         name: "Shadow",
         clickCount: 0,
-        imgSrc: "img/3.jpg",
+        imgSrc: "img/1413379559_412a540d29_z.jpg",
         nickNames: ["Shooby"]
     },
     {
         name: "Sleepy",
         clickCount: 0,
-        imgSrc: "img/5.jpg",
+        imgSrc: "img/9648464288_2516b35537_z.jpg",
         nickNames: ["Zzzz"]
     },
 ];
